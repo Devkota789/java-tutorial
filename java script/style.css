@@ -1,0 +1,13 @@
+#fi{
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+    padding: 2px;
+}
+#btn{
+    background-color: rgb(201, 173, 228);
+    border: 2px;
+    font-size: xx-large;
+    margin: 10%;
+    border-radius: 20px;
+}
